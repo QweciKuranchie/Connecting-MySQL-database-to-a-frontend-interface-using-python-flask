@@ -1,4 +1,2 @@
-
-Flask
-Flask-CORS
+flask
 mysql-connector-python
